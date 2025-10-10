@@ -2,7 +2,7 @@
   {
     "id": 1,
     "desc": "WaterCooler 01 pro max",
-    "imagem": "./Images/WaterCooler.webp",
+    "imagem": "../Dados/Images/WaterCooler.webp",
     "preco": 400.0
   },
   {
