@@ -2,61 +2,61 @@
   {
     "id": 1,
     "desc": "WaterCooler 01 pro max",
-    "imagem": "../Dados/Images/WaterCooler.webp",
+    "imagem": "../Dados/Images/Water-Cooler.webp",
     "preco": 400.0
   },
   {
     "id": 2,
     "desc": "Mouse Gamer HyperSpeed X",
-    "imagem": "./Images/MouseGamer.webp",
+    "imagem": "../Dados/Images/MouseGamer.webp",
     "preco": 150.50
   },
   {
     "id": 3,
     "desc": "Teclado Mecânico RGB TKL",
-    "imagem": "./Images/TecladoMecanico.webp",
+    "imagem": "../Dados/Images/TecladoMecanico.avif",
     "preco": 320.99
   },
   {
     "id": 4,
     "desc": "Monitor Ultrawide 34 pol. 144Hz",
-    "imagem": "./Images/MonitorUW.webp",
+    "imagem": "../Dados/Images/MonitorUW.webp",
     "preco": 2500.00
   },
   {
     "id": 5,
     "desc": "Placa de Vídeo RTX 5080",
-    "imagem": "./Images/PlacaVideo.webp",
+    "imagem": "../Dados/Images/PlacaVideo.webp",
     "preco": 7899.90
   },
   {
     "id": 6,
     "desc": "Memória RAM DDR5 32GB (2x16GB)",
-    "imagem": "./Images/MemoriaRAM.webp",
+    "imagem": "../Dados/Images/MemoriaRAM.avif",
     "preco": 950.00
   },
   {
     "id": 7,
     "desc": "SSD NVMe 2TB Gen4",
-    "imagem": "./Images/SSDNvme.webp",
+    "imagem": "../Dados/Images/SSDNvme.webp",
     "preco": 1125.75
   },
   {
     "id": 8,
     "desc": "Headset Surround 7.1 Pro",
-    "imagem": "./Images/Headset.webp",
+    "imagem": "../Dados/Images/Headset.jpg",
     "preco": 550.00
   },
   {
     "id": 9,
     "desc": "Webcam 4K com Foco Automático",
-    "imagem": "./Images/Webcam4k.webp",
+    "imagem": "../Dados/Images/Webcam4k.webp",
     "preco": 280.45
   },
   {
     "id": 10,
     "desc": "Gabinete Mid-Tower c/ Vidro Temperado",
-    "imagem": "./Images/Gabinete.webp",
+    "imagem": "../Dados/Images/Gabinete.webp",
     "preco": 670.20
   }
 ]
